@@ -1,2 +1,2 @@
-# mother_bet
+# Mother Bet Flutter mobile application
 
